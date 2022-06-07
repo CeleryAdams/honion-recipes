@@ -1,0 +1,14 @@
+h1 {
+    font-size: 60px;
+    font-family: Georgia;
+    font-style: italic;
+    text-decoration: underline dotted;
+}
+span a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #c49104;
+    font-weight: 550;
+}
+*  {text-align: center;}
+span + span {margin-left: 30px;}
+a:link { text-decoration: none}
